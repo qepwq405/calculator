@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  calculate
 //
-//  Created by 虎 小 on 21/07/2017.
+//  Created by 虎小 on 21/07/2017.
 //  Copyright © 2017 xiaohu. All rights reserved.
 //
 
