@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Notes.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>calculate.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +18,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>4902FC271F21D2C000CE6994</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>496C1CDE1F22D79D00B8DC02</key>
 		<dict>
 			<key>primary</key>
 			<true/>
